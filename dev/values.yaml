@@ -1,0 +1,6 @@
+jupyterhub:
+  singleuser:
+    image:
+      name: ghcr.io/digiklausur/docker-stacks/minimal-notebook
+      tag: dev
+  cmd: null
