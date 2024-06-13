@@ -1,5 +1,5 @@
 jupyterhub:
   singleuser:
     image:
-      name: ghcr.io/digiklausur/docker-stacks/minimal-notebook
+      name: ghcr.io/digiklausur/docker-stacks/datascience-notebook-teacher
       tag: dev
